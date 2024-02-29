@@ -1,0 +1,16 @@
+.peoplePage{
+    padding: 0;
+    background: url(../../images/nnn.jpg);
+    min-height: 680px;
+    background-size: cover;
+    font-family: sans-serif;
+}
+.peopleTitle{
+    color:rgb(255, 255, 255);
+    margin: 0mm;
+    top: 0%;
+    display: flex;
+    height: 10vh;
+    justify-content: center;
+    font-size: 3rem;
+}
